@@ -136,3 +136,9 @@ svg {
   margin-right: auto;
   margin-left: auto;
 }
+
+@media (max-width: 600px) {
+  .navigation-links {
+    text-align: center;
+  }
+}
